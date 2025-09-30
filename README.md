@@ -1,0 +1,2 @@
+# ExchangeRateCalculator
+Ejercicio Práctico
