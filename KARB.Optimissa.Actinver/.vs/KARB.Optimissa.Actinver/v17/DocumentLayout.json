@@ -1,7 +1,164 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\amountconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\amountconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\exchangeratehistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\exchangeratehistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\amountconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\amountconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\exchangeratehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\exchangeratehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\currencymanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\currencymanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\currencymanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\currencymanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\services\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\services\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\karb.optimissa.actinver.exchangeratecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\karb.optimissa.actinver.exchangeratecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\favoritecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\favoritecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\models\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\migrations\\20251002181947_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\migrations\\20251002181947_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\amountconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\amountconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\exchangeratehistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\exchangeratehistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\currencymanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\viewmodels\\currencymanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\services\\bitacorafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\services\\bitacorafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|c:\\myrepos\\github\\exchangeratecalculator\\karb.optimissa.actinver\\karb.optimissa.actinver.exchangeratecalculator\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31739506-E911-42B8-8D41-62F9E3F1F8AA}|KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj|solutionrelative:karb.optimissa.actinver.exchangeratecalculator\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +166,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\ExchangeRateHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\ExchangeRateHistory\\Index.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\ExchangeRateHistory\\Index.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\ExchangeRateHistory\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T12:23:51.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\AmountConverter\\Index.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\AmountConverter\\Index.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\AmountConverter\\Index.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\AmountConverter\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T21:31:57.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -18,6 +203,487 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\UserDB.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\UserDB.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\UserDB.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\UserDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:54:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:23:12.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyManagementController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\CurrencyManagementController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\CurrencyManagementController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\CurrencyManagementController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\CurrencyManagementController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA0wBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:40:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:44:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T23:44:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\CurrencyManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\CurrencyManagement\\Index.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\CurrencyManagement\\Index.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\CurrencyManagement\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T21:40:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T01:19:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\appsettings.json",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\appsettings.json",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T05:04:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\ExchangeRateService.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\ExchangeRateService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:21:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRateHistoryController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\ExchangeRateHistoryController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\ExchangeRateHistoryController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\ExchangeRateHistoryController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\ExchangeRateHistoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:34:57.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExchangeRateService.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\IExchangeRateService.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\IExchangeRateService.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\IExchangeRateService.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\IExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:22:26.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Currency.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Currency.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T02:54:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T01:35:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmountConverterController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AmountConverterController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AmountConverterController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AmountConverterController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\AmountConverterController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:30:56.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Conversion.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Conversion.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Conversion.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:46:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Bitacora.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Bitacora.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Bitacora.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Bitacora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:17:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:17:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:57:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251002181947_Inicial.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251002181947_Inicial.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251002181947_Inicial.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251002181947_Inicial.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251002181947_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:19:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T21:09:53.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:54:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KARB.Optimissa.Actinver.ExchangeRateCalculator",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\KARB.Optimissa.Actinver.ExchangeRateCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T10:42:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CurrencyViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:11:27.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Program.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Program.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:42:46.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ExchangeRateResponse.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:16:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-03T10:50:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FavoriteCurrency.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\FavoriteCurrency.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\FavoriteCurrency.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\FavoriteCurrency.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Models\\FavoriteCurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:43:41.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AmountConverterViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\AmountConverterViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\AmountConverterViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\AmountConverterViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\AmountConverterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:14:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:32:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T10:33:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExchangeRateHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\ExchangeRateHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\ExchangeRateHistoryViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\ExchangeRateHistoryViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\ExchangeRateHistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:36:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CurrencyManagementViewModel.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyManagementViewModel.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyManagementViewModel.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyManagementViewModel.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\ViewModels\\CurrencyManagementViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:17:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BitacoraFilter.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\BitacoraFilter.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\BitacoraFilter.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\BitacoraFilter.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Services\\BitacoraFilter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:40:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251001173536_Inicial.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173536_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:35:36.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251001173212_Inicial.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173212_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:32:12.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251001173703_Inicial.cs",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Migrations\\20251001173703_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:37:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\MyRepos\\GitHub\\ExchangeRateCalculator\\KARB.Optimissa.Actinver\\KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "KARB.Optimissa.Actinver.ExchangeRateCalculator\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T01:11:56.892Z",
+              "EditorCaption": ""
             }
           ]
         }

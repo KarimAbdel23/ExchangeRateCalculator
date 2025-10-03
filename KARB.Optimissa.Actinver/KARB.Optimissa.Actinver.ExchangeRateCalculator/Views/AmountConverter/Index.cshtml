@@ -1,0 +1,64 @@
+﻿@using KARB.Optimissa.Actinver.ExchangeRateCalculator.ViewModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model AmountConverterViewModel
+@{
+    ViewData["Title"] = "Conversor de monto";
+}
+
+<div class="container mt-4">
+    <h4>Conversor de monto</h4>
+    <form method="post" class="mb-4">
+        <div class="mb-3">
+            <label for="AmountEntered" class="form-label">Monto en @Model.MainCurrency</label>
+            <input type="number" step="0.01" class="form-control" id="AmountEntered" name="AmountEntered"
+                   value="@Model.AmountEntered" required />
+
+        </div>
+        <div class="mb-3">
+            <label for="selectedDate" class="form-label">Fecha de conversión:</label>
+            <input type="date" id="selectedDate" name="selectedDate" class="form-control"
+                   value="@Model.SelectedDate.ToString("yyyy-MM-dd")" max="@DateTime.Today.ToString("yyyy-MM-dd")" />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Convertir</button>
+    </form>
+
+    <p>Moneda principal: <strong>@Model.MainCurrency</strong> </p>
+    <p>Fecha seleccionada: <strong>@Model.SelectedDate.ToString("dd/MM/yyyy")</strong></p>
+
+    @if (Model.Conversions.Any())
+    {
+        <h5>Resultados:</h5>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Moneda destino</th>
+                    <th>Tasa de cambio</th>
+                    <th>Monto convertido</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model.Conversions)
+                {
+                    <tr>
+                        <td>@item.TargetCurrency</td>
+                        <td>1 @Model.MainCurrency = @item.ExchangeRate.ToString("F4") @item.TargetCurrency</td>
+                        <td>@item.AmountConverted.ToString("F2") @item.TargetCurrency</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    @if (Model.Conversions.Count() <= 0)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            Aún no tiene monedas favoritas registradas. Por favor, vaya al menú 'Gestión de Divisas' para crear su lista.
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+</div>
+

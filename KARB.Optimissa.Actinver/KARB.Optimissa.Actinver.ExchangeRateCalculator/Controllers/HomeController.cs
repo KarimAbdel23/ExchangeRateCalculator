@@ -1,24 +1,22 @@
 using System.Diagnostics;
 using KARB.Optimissa.Actinver.ExchangeRateCalculator.Models;
+using KARB.Optimissa.Actinver.ExchangeRateCalculator.Models.Context;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KARB.Optimissa.Actinver.ExchangeRateCalculator.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly AppDbContext _context;
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
         {
             return View();
         }
